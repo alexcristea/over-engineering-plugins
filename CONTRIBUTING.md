@@ -54,7 +54,7 @@ This repository is a Claude Code plugin **marketplace index**. It contains no pl
 5. **Smoke-install** before opening the PR: in a Claude Code session,
 
    ```
-   /plugin marketplace add alexcristea/claude-marketplace
+   /plugin marketplace add alexcristea/over-engineering-plugins
    /plugin install <slug>@over-engineering-plugins
    ```
 

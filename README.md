@@ -16,7 +16,7 @@ Want to add yours? See [CONTRIBUTING.md](./CONTRIBUTING.md).
 Add the marketplace once:
 
 ```
-/plugin marketplace add alexcristea/claude-marketplace
+/plugin marketplace add alexcristea/over-engineering-plugins
 ```
 
 Install any plugin by name:
