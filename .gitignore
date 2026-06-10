@@ -1,0 +1,5 @@
+build/
+.structurizr/
+.DS_Store
+.idea/
+*.log

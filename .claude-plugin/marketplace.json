@@ -1,0 +1,33 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "over-engineering-plugins",
+  "description": "A curated set of Claude Code plugins authored by Alex Cristea at Over Engineering.",
+  "owner": {
+    "name": "alex",
+    "url": "https://github.com/alexcristea"
+  },
+  "plugins": [
+    {
+      "name": "c4",
+      "source": {
+        "source": "github",
+        "repo": "alexcristea/c4-plugin"
+      },
+      "description": "Author C4 architecture diagrams as Structurizr DSL, with ADRs and supplementary docs.",
+      "category": "architecture",
+      "keywords": ["c4", "structurizr", "architecture", "diagrams", "adr"],
+      "homepage": "https://github.com/alexcristea/c4-plugin"
+    },
+    {
+      "name": "ddd",
+      "source": {
+        "source": "github",
+        "repo": "alexcristea/ddd-plugin"
+      },
+      "description": "Design and unit-test DDD / Clean Architecture layers — domain model, repositories, and usecases — driven by a per-project profile.",
+      "category": "architecture",
+      "keywords": ["ddd", "clean-architecture", "entities", "repositories", "usecases", "unit-testing", "tdd"],
+      "homepage": "https://github.com/alexcristea/ddd-plugin"
+    }
+  ]
+}
