@@ -8,6 +8,7 @@ A curated [Claude Code](https://docs.claude.com/claude-code) plugin **marketplac
 |--------|------|-------------|
 | **`c4`** | [alexcristea/c4-plugin](https://github.com/alexcristea/c4-plugin) | Author C4 architecture diagrams as Structurizr DSL, with ADRs and supplementary docs. Skills: `init`, `update`, `validate`, `export`, `preview`, `conventions`. |
 | **`ddd`** | [alexcristea/ddd-plugin](https://github.com/alexcristea/ddd-plugin) | Design and unit-test DDD / Clean Architecture layers, driven by a per-project profile. Skills: `create-profile`, `entity-design`, `repository-design`, `usecase-tests`. |
+| **`ship`** | [alexcristea/ship-plugin](https://github.com/alexcristea/ship-plugin) | Skills for trunk-based development: atomic commits, small PRs and a main branch that's always releasable. Skills: `commit`. |
 
 Want to add yours? See [CONTRIBUTING.md](./CONTRIBUTING.md).
 

@@ -28,6 +28,17 @@
       "category": "architecture",
       "keywords": ["ddd", "clean-architecture", "entities", "repositories", "usecases", "unit-testing", "tdd"],
       "homepage": "https://github.com/alexcristea/ddd-plugin"
+    },
+    {
+      "name": "ship",
+      "source": {
+        "source": "github",
+        "repo": "alexcristea/ship-plugin"
+      },
+      "description": "Skills for trunk-based development: atomic commits, small PRs and a main branch that's always releasable.",
+      "category": "development",
+      "keywords": ["trunk-based-development", "git", "commit", "conventional-commits", "commitlint"],
+      "homepage": "https://github.com/alexcristea/ship-plugin"
     }
   ]
 }
