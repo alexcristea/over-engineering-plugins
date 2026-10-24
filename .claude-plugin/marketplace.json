@@ -39,6 +39,17 @@
       "category": "development",
       "keywords": ["trunk-based-development", "git", "commit", "conventional-commits", "commitlint"],
       "homepage": "https://github.com/alexcristea/ship-plugin"
+    },
+    {
+      "name": "specs",
+      "source": {
+        "source": "github",
+        "repo": "alexcristea/specs-plugin"
+      },
+      "description": "Specs-driven development: write the product specs — PRD, NFRs, use cases and Gherkin acceptance criteria — before the code.",
+      "category": "development",
+      "keywords": ["specs-driven-development", "prd", "requirements", "non-functional-requirements", "use-cases", "acceptance-criteria", "gherkin", "bdd"],
+      "homepage": "https://github.com/alexcristea/specs-plugin"
     }
   ]
 }
